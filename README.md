@@ -88,6 +88,11 @@ git clone https://github.com/QelvaLabs/Qelva-core.git
 cd qelva-core
 npm install
 npm run dev:backend
+```
+**Docs:**
+- [Docs index](./docs/README.md)
+- [Threat model](./docs/privacy/0-threat-model.md)
+- [Metadata & leakage](./docs/privacy/1-metadata-leakage.md)
 
 
 
